@@ -31,3 +31,5 @@ Test Report can be displayed with following command:
 ```bash
 allure serve report
 ```
+Screenshots can be seen in the report for failed scenarios:
+![image](https://user-images.githubusercontent.com/2384320/181058139-a06268ed-3ef2-4f35-9e6f-5956887fc127.png)
